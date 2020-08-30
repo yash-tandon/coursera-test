@@ -1,0 +1,44 @@
+li{
+	text-align: center;
+	border:1px solid black;
+	background: #b30086;
+}
+
+.navbar{
+	background-color: #8080ff;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+div{
+	padding-bottom:0;
+}
+
+.container-fluid{
+	padding-bottom: 0;
+}
+
+.navbar-default .navbar-brand {
+    color: Black;
+}
+
+ul{
+	padding-bottom:0;
+	margin-bottom: 0;
+}
+
+p{
+	font-size: 20px;
+}
+
+#grid{
+	width: 80%;
+}
+
+
+div.container{
+	background: #e6e6e6;
+	padding:20px;
+}
+
+
